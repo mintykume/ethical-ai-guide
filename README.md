@@ -69,6 +69,4 @@ This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 Interna
 - 📝 **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made
 - 🔄 **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license
 
-### How to Credit This Work
 
-When sharing or adapting, please include:
